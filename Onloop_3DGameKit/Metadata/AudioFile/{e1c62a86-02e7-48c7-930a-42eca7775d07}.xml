@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{f12b7ee5-9beb-45a3-9906-18879e3e6644}">
+	<object class="AudioFile" id="{e1c62a86-02e7-48c7-930a-42eca7775d07}">
 		<property name="assetPath">
-			<value>placeHolders/sambaaa.wav</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>placeHolders/Ellen_Footsteps_Earth_Walk_01.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>26.301337868480726</value>
+			<value>0.36195833333333333</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{7da5fb54-4d08-4ace-beab-efc7e33ae75c}</destination>
