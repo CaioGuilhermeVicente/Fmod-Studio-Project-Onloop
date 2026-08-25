@@ -1,0 +1,40 @@
+# FMOD
+.cache/
+Cache/
+Build/
+
+# User settings
+.user/
+*.user
+
+# Temporary
+.unsaved/
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Backup
+*.bak
+*.swo
+*.swp
+*~
+
+## macOS
+.AppleDouble
+.DS_Store
+.LSOverride
+.Spotlight-V100/
+.Trashes/
+._*
+
+## Windows
+Desktop.ini
+Thumbs.db
+
+## Linux
+.directory
+.fuse_hidden*
