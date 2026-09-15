@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{814ad7dd-2a12-4b10-b105-74f48d9b04da}">
+		<property name="assetPath">
+			<value>Walk/Grass/Ellen_Footsteps_Grass_Walk_09.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.64583333333333337</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7da5fb54-4d08-4ace-beab-efc7e33ae75c}</destination>
+		</relationship>
+	</object>
+</objects>
