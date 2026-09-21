@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{344707ab-c97f-4e33-9dc2-c8ed8b23e1ee}">
 		<property name="assetPath">
-			<value>Walk/Puddle/</value>
+			<value>Ellen/Locomotion/Walk/Puddle/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{7da5fb54-4d08-4ace-beab-efc7e33ae75c}</destination>

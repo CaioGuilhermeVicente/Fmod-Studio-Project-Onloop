@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{66d58c1b-e9b0-4af7-806e-ab0874e4e53c}">
 		<property name="assetPath">
-			<value>Run/Stone/Ellen_Footsteps_Stone_Run_14.ogg</value>
+			<value>Ellen/Locomotion/Run/Stone/Ellen_Footsteps_Stone_Run_14.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
