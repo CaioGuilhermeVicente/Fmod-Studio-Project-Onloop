@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{badcb894-407d-4add-8e17-a44eecd1704b}">
 		<property name="assetPath">
-			<value>Atmos_Underground_01.ogg</value>
+			<value>Environment/generalAmb/Atmos_Underground_01.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
