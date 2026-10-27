@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4873ea57-3084-4cf7-a804-02d5b30083df}">
+		<property name="assetPath">
+			<value>Enemies/Chomper/Locomotion/Run/Chomper_Run_Ft_Back_08.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.30931972789115647</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7da5fb54-4d08-4ace-beab-efc7e33ae75c}</destination>
+		</relationship>
+	</object>
+</objects>

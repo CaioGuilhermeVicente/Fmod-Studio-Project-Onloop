@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="UiMixerView" id="{dbc56021-a01c-4eb5-974f-080ca8440f57}">
+		<property name="name">
+			<value>ellen</value>
+		</property>
+		<relationship name="assignedStrips">
+			<destination>{34317aae-21c6-4d72-8efc-425d1c38319a}</destination>
+			<destination>{057a4ae9-e6b8-416b-b65d-6328d97ca1d5}</destination>
+			<destination>{cc7b8633-e64f-444d-a755-ea8680978bb9}</destination>
+			<destination>{01b1c610-4360-4417-8161-a40c7a79486d}</destination>
+			<destination>{bd295e24-90d3-487a-84da-cb906299fc20}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{9d6a9d52-bf65-4686-ae9f-ed8109eb0943}</destination>
+		</relationship>
+	</object>
+</objects>
