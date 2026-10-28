@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="EncodableAsset" id="{0a83c9fc-0ce5-4d27-8514-40b5a663da52}">
+	<object class="EncodableAsset" id="{93330843-724a-4247-8c75-47b9a4a5650d}">
 		<property name="assetPath">
-			<value>placeHolders/</value>
+			<value>Environment/generalAmb/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{7da5fb54-4d08-4ace-beab-efc7e33ae75c}</destination>
