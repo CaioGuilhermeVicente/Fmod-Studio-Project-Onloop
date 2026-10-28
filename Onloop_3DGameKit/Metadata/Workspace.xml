@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{a9042771-277c-4dd7-baa5-a454ab8d7a7d}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../../Onloop-Fmod-Unity-3D/Fmod-Unity-3D-Gamekit/Assets/FmodBanks</value>
+			<value>../../Onloop-Fmod-Unity-3D/Fmod-Unity-3D-Gamekit/Assets/FmodBanks</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{dfaecbb7-93dd-4e34-bca0-bfa5f38812b2}</destination>
