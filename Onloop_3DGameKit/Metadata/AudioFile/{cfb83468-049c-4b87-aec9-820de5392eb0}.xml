@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{cfb83468-049c-4b87-aec9-820de5392eb0}">
+		<property name="assetPath">
+			<value>Enemies/Chomper/Attack/bite.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.36866213151927435</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7da5fb54-4d08-4ace-beab-efc7e33ae75c}</destination>
+		</relationship>
+	</object>
+</objects>
